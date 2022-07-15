@@ -1,2 +1,4 @@
 'Hello I'am Sagar Thasal\nI am an Engineering graduate\nThankyou\n'
 "Hello I'am Sagar Thasal\nI am an Engineering graduate\nThankyou\n"
+I studied Electronics as major.
+I studied Computer Science as minor.
